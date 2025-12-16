@@ -5,3 +5,8 @@ hari ini saya:
 <ol>
   <li>membuat file index.html untuk setiap folder pertemuan-01 sampai pertemuan-02</li>
 </ol>
+
+<br>
+Kami dari belinyu, hore kami bisa<br>
+
+![Logo ISBAL](logoisbal.png)
