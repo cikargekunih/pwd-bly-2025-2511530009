@@ -4,6 +4,7 @@ hari ini saya:
 <br>
 <ol>
   <li>membuat file index.html untuk setiap folder pertemuan-01 sampai pertemuan-02</li>
+  <li>buat file index.html untuk root directory (html5 sederhana)</li>
 </ol>
 
 <br>
