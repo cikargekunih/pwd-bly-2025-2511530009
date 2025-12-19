@@ -14,4 +14,5 @@ belajar:
   <li>ganti title</li>
   <li>mengisi header</li>
   <li>mengisi main untuk section home, about, contact</li>
+  <li>mengisi footer dengan html entity</li>
 </ol>
