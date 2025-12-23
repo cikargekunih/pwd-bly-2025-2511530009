@@ -9,4 +9,5 @@ hari ini, Selasa 23.DES.2025 belajar:
   <li>mengisi section about</li>
   <li>mengisi section contact dengan emmet abbreviation</li>
   <li>melengkapi attribut form</li>
+  <li>styling section #about</li>
 </ol>
