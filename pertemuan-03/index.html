@@ -39,17 +39,18 @@
     </section>
     <section id="contact">
       <h2>Kontak Kami</h2>
-      <form action="">
-        <label for=""></label>
-        <input type="text">
+      <form action="" method="POST">
+        <label for="txtnama">Nama:</label>
+        <input name="txtnama" id="txtnama" required placeholder="isi nama lengkap" type="text">
         
-        <label for=""></label>
-        <input type="text">
+        <label for="txtemail">Email:</label>
+        <input name="txtemail" id="txtemail" required placeholder="isi email" type="email">
         
-        <label for=""></label>
-        <textarea name="" id=""></textarea>
+        <label for="txtpesan">Pesan:</label>
+        <textarea rows="5" name="txtpesan" id="txtpesan" required placeholder="isi pesan"></textarea>
         
-        <button></button>
+        <button type="submit">Kirim</button>
+        <button type="reset">Batal</button>
       </form>
     </section>
 
