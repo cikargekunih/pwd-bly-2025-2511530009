@@ -1,3 +1,7 @@
+<?php
+  session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,6 +68,16 @@
         <button type="submit">Kirim</button>
         <button type="reset">Batal</button>
       </form>
+    </section>
+    
+    <section id="tamu">
+      <h2>Tamu Terakhir</h2>
+      <?php
+        $biodata = $_SESSION["biodata"];
+        foreach ($biodata as $k => $v) {
+          echo "<p><strong>$k</strong>: $v</p>";
+        }
+      ?>
     </section>
   </main>
 
